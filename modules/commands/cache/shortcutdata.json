@@ -1,0 +1,22 @@
+[
+    {
+        "threadID": "5502712343074609",
+        "shortcuts": [
+            {
+                "id": "crbzzZrvnW",
+                "input": "Hi",
+                "output": "Cc"
+            }
+        ]
+    },
+    {
+        "threadID": "5259429074148981",
+        "shortcuts": [
+            {
+                "id": "aFjfxbcNbY",
+                "input": "123",
+                "output": "empty"
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "Nguyễn Minh Tuấn",
+  "ID": "100042113994215",
+  "pet": [
+    {
+      "name": "Emboar",
+      "type": "Fire",
+      "HP": "165.0",
+      "Attack": "184.5",
+      "Defense": "97.5",
+      "Speed": "97.5",
+      "skill": [
+        "Blaze",
+        "Reckless"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/500.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}
